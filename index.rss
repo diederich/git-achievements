@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Stephan Diederich's Git Achievements</title>
+<item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
 <item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Carpenter (Level        9)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
@@ -19,5 +20,4 @@
 <item><title>Apprentice Archivist (Level 3)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
 </channel></rss>
