@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Stephan Diederich's Git Achievements</title>
+<item><title>Cleaning lady (Level 6)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Goldsmith (Level 4)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
 <item><title>Inventor (undo)</title><description>Used a command that isn't part of the built in Git command</description></item>
@@ -19,5 +20,4 @@
 <item><title>Inventor (count)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Traveler (Level 5)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 </channel></rss>
