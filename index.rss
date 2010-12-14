@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Stephan Diederich's Git Achievements</title>
+<item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Inventor (wtf)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Cleaning lady (Level 6)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
@@ -19,5 +20,4 @@
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Presenter (Level 6)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Inventor (count)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
 </channel></rss>
